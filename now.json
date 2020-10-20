@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "public": true,
+  "scope": "DRVT",
+  "github": {
+    "silent": true
+  },
+  "build": {
+    "env": {
+      "ARAGON_FORTMATIC_API_KEY": "@drVt-client-fortmatic-testnet-api-key",
+      "ARAGON_PORTIS_DAPP_ID": "@drvt-client-portis-dapp-id",
+      "ARAGON_SENTRY_DSN": "@drvt-client-sentry-dsn",
+      "ARAGON_ETH_SUBSCRIPTION_EVENT_DELAY": "3000"
+    }
+  }
+}

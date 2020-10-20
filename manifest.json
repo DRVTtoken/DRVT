@@ -1,0 +1,9 @@
+{
+  "name": "DRVT",
+  "description": "The DRVT DAPP",
+  "icons": [{
+    "src": "images/icon.png",
+    "sizes": "192x192"
+  }],
+  "start_url": "index.html"
+}
